@@ -1,4 +1,4 @@
-## Portfolio
+## About
 
 Responsive portfolio created to show projects. The project automatically deploys to Github Pages.
 
